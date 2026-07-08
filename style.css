@@ -97,6 +97,15 @@ nav ul li a:hover {
   color: white;
 }
 
+/* About */
+.para{
+  font-size: 25px;
+  font-weight: 500;
+
+}
+
+
+
 /* Sections */
 
 .section {
